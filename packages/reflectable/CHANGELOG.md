@@ -1,3 +1,7 @@
+## 5.2.0
+
+- Upgrade reflectable to use analyzer ^10.0.0 and lints ^6.0.0.
+
 ## 5.1.0
 
 - Upgrade reflectable to use version ^8.0.0 of the analyzer and version
